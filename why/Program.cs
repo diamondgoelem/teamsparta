@@ -49,7 +49,7 @@
 
         static void test()
         {
-    
+            Console.WriteLine("test");
         }
 
         public class Character
